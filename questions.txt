@@ -1,1 +1,0 @@
-1- Quantos nomes diferentes existem por ano a partir de 2000? Forneça uma tabela e demonstre os resultados graficamente.
