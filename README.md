@@ -58,7 +58,7 @@ Total de nascimento masculinos: <i><b>12482</b></i>
 
 ### <b>5- Descobri qual é nome mais utilizado por ano desde do ano 2000.</b>
 
-![](/images/second.png)
+![](/images/second.PNG)
 
 Com esse dado, conseguimos concluir que o nome mais utilizado desde 2000, é Isabella.
 
