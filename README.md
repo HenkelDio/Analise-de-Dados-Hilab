@@ -1,4 +1,4 @@
-## Teste estágio análise de dados
+# Teste estágio análise de dados
 
 Essa é a solução do teste aplicado para o estágio de análise de dados.
 
@@ -34,4 +34,4 @@ Foi mesclado os 3 arquivos em um .csv para análise posterior, e utilizado o sep
 
 #### 1 - Quantos nomes diferentes existem por ano a partir de 2000? Forneça uma tabela e demonstre os resultados graficamente.
 
-![](/images/images\1.png.png)
+![](images\1.png)
