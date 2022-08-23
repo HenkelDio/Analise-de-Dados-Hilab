@@ -34,4 +34,4 @@ Foi mesclado os 3 arquivos em um .csv para análise posterior, e utilizado o sep
 
 #### 1 - Quantos nomes diferentes existem por ano a partir de 2000? Forneça uma tabela e demonstre os resultados graficamente.
 
-![](/images/1.png)
+![](/images/first.png)
